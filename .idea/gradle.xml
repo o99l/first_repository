@@ -12,7 +12,6 @@
             <option value="$PROJECT_DIR$/adressbook-web-test" />
           </set>
         </option>
-        <option name="useAutoImport" value="true" />
         <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
       <GradleProjectSettings>
